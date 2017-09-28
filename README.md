@@ -22,7 +22,9 @@ http://docs.oracle.com/javase/tutorial/jdbc/basics/prepared.html
 4.	Implemente las operaciones faltantes (la operación que hace el cálculo del valor de un pedido debe hacerlo mediante SQL). Para la operación c  use su código de estudiante, de manera que no haya conflicto con sus compañeros (todos están usando la misma base de datos).
 
     a. nombresProductosPedido
+
     b. valorTotalPedido
+
     c. registrarNuevoProducto
 
-5.	Ejecute las operaciones y rectifique los resultados. Operaciones a y b por pantalla, operaciones c y d consultando en la base de datos con un cliente MySQL.
+5.	Ejecute las operaciones y rectifique los resultados. Operaciones a y b por pantalla, operacióne c consultando en la base de datos con un cliente MySQL.
