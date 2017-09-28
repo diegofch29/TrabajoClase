@@ -23,7 +23,6 @@ http://docs.oracle.com/javase/tutorial/jdbc/basics/prepared.html
 
     * nombresProductosPedido
     * valorTotalPedido
-    * cambiarNombreProducto
     * registrarNuevoProducto
 
 5.	Ejecute las operaciones y rectifique los resultados. Operaciones a y b por pantalla, operaciones c y d consultando en la base de datos con un cliente MySQL.

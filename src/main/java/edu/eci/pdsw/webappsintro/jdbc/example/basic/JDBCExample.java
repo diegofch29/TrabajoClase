@@ -128,22 +128,6 @@ public class JDBCExample {
     }
     
 
-    /**
-     * Cambiar el nombre de un producto
-     * @param con
-     * @param codigoProducto codigo del producto cuyo nombre se cambiará
-     * @param nuevoNombre el nuevo nombre a ser asignado
-     */
-    public static void cambiarNombreProducto(Connection con, int codigoProducto, 
-            String nuevoNombre){
-        
-        //Crear prepared statement
-        //asignar parámetros
-        //usar executeUpdate
-        //verificar que se haya actualizado exactamente un registro
-        
-        
-    }
     
     
     
