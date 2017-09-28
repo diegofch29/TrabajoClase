@@ -6,6 +6,8 @@
 
 En un motor de base de datos MySQL Se tiene un esquema con el siguiente modelo de base de datos (un registro de pedidos de productos):
 
+![](img/RMODEL.png)
+
 1.	Revise la documentación de ‘PreparedStatement’, del API JDBC:
 http://docs.oracle.com/javase/tutorial/jdbc/basics/prepared.html
 
