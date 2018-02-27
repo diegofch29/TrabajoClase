@@ -2,7 +2,6 @@
 ### Procesos de desarrollo de Software – PDSW
 ### Capa de persistencia – Introducción Patrón DAO y JDBC
 
-### Ejercicio para el Martes ANTES DE CLASE
 
 En un motor de base de datos MySQL Se tiene un esquema con el siguiente modelo de base de datos (un registro de pedidos de productos):
 
